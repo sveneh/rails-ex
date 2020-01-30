@@ -17,6 +17,8 @@
 
 <!-- tocstop -->
 
+Test
+
 Rails Sample App on OpenShift
 ============================
 
